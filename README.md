@@ -1,6 +1,6 @@
 # ModeladoOrientadoObjetos-CENIDET
 
- Proyecto Final CENIDET
+ Proyecto Final CENIDET materia Modelado Orientado a Objetos cursada en el semestre 2.
 
 En el presente repositorio se aloja el proyecto final de la materia de Modelado Orientado a Objetos cursada en el segundo semestre de la maestria en ciencias computacionales en el Centro Nacional de Investigacion y Desarrollo Tecnologico (CENIDET), la organizacion del repositorio se encuentra de la siguiente manera:
 
